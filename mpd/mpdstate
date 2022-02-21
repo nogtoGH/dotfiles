@@ -1,0 +1,30 @@
+sw_volume: 90
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 7
+random: 1
+repeat: 1
+single: 1
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3
+1:🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3
+2:24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3
+3:Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3
+4:Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3
+5:Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3
+6:Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3
+7:Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3
+8:K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3
+9:LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3
+10:Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3
+11:New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3
+12:Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3
+13:Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3
+14:Nightcore - Stay High-l8Qmlci7aRg.mp3
+15:Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3
+playlist_end

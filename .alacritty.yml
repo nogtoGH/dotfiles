@@ -1,0 +1,65 @@
+colors:
+  # Default colors
+  primary:
+    background: "0x000000"
+    foreground: "0x3d767e"
+
+  # Normal colors
+  normal:
+    black: "0x161817"
+    red: "0xde935f"
+    green: "0xa54242"
+    yellow: "0xa54242"
+    blue: "0x99a33f"
+    magenta: "0x85678f"
+    cyan: "0x5e8d87"
+    white: "0x707880"
+
+  # Bright colors
+  bright:
+    black: "0x396e65"
+    red: "0xb0bc3d"
+    green: "0x398f38"
+    yellow: "0xf0c674"
+    blue: "0x29689e"
+    magenta: "0xb294bb"
+    cyan: "0x8abeb7"
+    white: "0xc5c8c6"
+
+font:
+  normal:
+    family: monospace
+    style: Regular
+
+  bold:
+    family: monospace
+    style: Bold
+
+  italic:
+    family: monospace
+    style: Italic
+
+  bold_italic:
+    family: monospace
+    style: Bold Italic
+
+  size: 12
+
+  key_bindings:
+    - { key: V, mods: Command, action: Paste }
+    - { key: C, mods: Command, action: Copy }
+    - { key: Q, mods: Command, action: Quit }
+    - { key: W, mods: Command, action: Quit }
+    - { key: Home, chars: "\x1bOH", mode: AppCursor }
+    - { key: Home, chars: "\x1b[H", mode: ~AppCursor }
+    - { key: End, chars: "\x1bOF", mode: AppCursor }
+    - { key: End, chars: "\x1b[F", mode: ~AppCursor }
+    - { key: Key0, mods: Command, action: ResetFontSize }
+    - { key: Equals, mods: Command, action: IncreaseFontSize }
+    - { key: Minus, mods: Command, action: DecreaseFontSize }
+    - { key: PageUp, mods: Shift, chars: "\x1b[5;2~" }
+    - { key: PageUp, mods: Control, chars: "\x1b[5;5~" }
+    - { key: PageUp, chars: "\x1b[5~" }
+    - { key: PageDown, mods: Shift, chars: "\x1b[6;2~" }
+window:
+  opacity: 2

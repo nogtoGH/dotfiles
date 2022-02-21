@@ -1,0 +1,455 @@
+Jul 15 12:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:13 : update: added /Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3
+Jul 15 12:13 : update: added /Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp4
+Jul 15 12:13 : avahi: Service 'Music Player' successfully established.
+Jul 15 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:14 : avahi: Service 'Music Player' successfully established.
+Jul 15 12:17 : client: [0] opened from 127.0.0.1:47872
+Jul 15 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:18 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 12:18 : client: [0] closed
+Jul 15 12:29 : client: [1] opened from 127.0.0.1:49542
+Jul 15 12:31 : client: [1] closed
+Jul 15 12:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:39 : avahi: Service 'Music Player' successfully established.
+Jul 15 12:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 12:47 : avahi: Service 'Music Player' successfully established.
+Jul 15 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 20:27 : avahi: Service 'Music Player' successfully established.
+Jul 15 20:29 : client: [0] opened from 127.0.0.1:55488
+Jul 15 20:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 20:42 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 20:43 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 20:43 : client: [0] closed
+Jul 15 21:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 21:01 : avahi: Service 'Music Player' successfully established.
+Jul 15 21:01 : client: [0] opened from 127.0.0.1:36208
+Jul 15 21:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 15 21:03 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 15 21:04 : client: [0] closed
+Jul 15 21:10 : client: [1] opened from 127.0.0.1:38736
+Jul 15 21:10 : client: [1] closed
+Jul 16 08:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 08:42 : avahi: Service 'Music Player' successfully established.
+Jul 16 09:51 : client: [0] opened from 127.0.0.1:58262
+Jul 16 09:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 15:11 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 16 15:11 : client: [0] closed
+Jul 16 17:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 17:00 : avahi: Service 'Music Player' successfully established.
+Jul 16 17:01 : client: [0] opened from 127.0.0.1:39872
+Jul 16 17:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 16 18:57 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 16 19:38 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 16 19:38 : client: [0] closed
+Jul 17 08:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 08:40 : avahi: Service 'Music Player' successfully established.
+Jul 17 10:36 : client: [0] opened from 127.0.0.1:45934
+Jul 17 10:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 17 10:39 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 17 10:39 : client: [0] closed
+Jul 17 10:40 : client: [1] opened from 127.0.0.1:46196
+Jul 17 10:44 : player: played "Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3"
+Jul 17 10:44 : client: [1] closed
+Jul 17 10:44 : client: [2] opened from 127.0.0.1:46372
+Jul 17 10:45 : update: added /I Found A Girl–The Vamps Lyrics.mp3
+Jul 17 10:45 : update: added /Zedd, Maren Morris, Grey - The Middle (Official Music Video).mp3
+Jul 17 10:45 : update: updating /Top 30 NoCopyRightSounds _ Best of NCS _ 2H NoCopyRightSounds _ NCS _ The Best o.mp3
+Jul 17 10:45 : update: added /Maroon 5 - Wait.mp3
+Jul 17 10:45 : update: added /Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3
+Jul 17 10:45 : update: added /The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3
+Jul 17 10:47 : player: played "Zedd, Maren Morris, Grey - The Middle (Official Music Video).mp3"
+Jul 17 10:53 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 10:57 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:00 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:03 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:07 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 11:11 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:14 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:17 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:21 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 11:25 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:28 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:32 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:36 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:39 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:43 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 11:46 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 11:49 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 11:53 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 11:57 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 12:00 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 13:12 : client: [2] closed
+Jul 17 13:12 : client: [3] opened from 127.0.0.1:53366
+Jul 17 13:12 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:16 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:19 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:23 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 13:26 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 13:30 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:33 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:34 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 13:34 : client: [3] closed
+Jul 17 13:36 : client: [4] opened from 127.0.0.1:55488
+Jul 17 13:37 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:37 : client: [4] closed
+Jul 17 13:37 : client: [5] opened from 127.0.0.1:55550
+Jul 17 13:38 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 13:38 : client: [5] closed
+Jul 17 13:38 : client: [6] opened from 127.0.0.1:55598
+Jul 17 13:41 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 13:46 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 13:48 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 13:48 : client: [6] closed
+Jul 17 13:50 : client: [7] opened from 127.0.0.1:56796
+Jul 17 14:02 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 14:05 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 14:05 : client: [7] closed
+Jul 17 14:05 : client: [8] opened from 127.0.0.1:57658
+Jul 17 14:09 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 14:13 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 14:17 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 14:20 : player: played "Maroon 5 - Wait.mp3"
+Jul 17 14:24 : player: played "The Chainsmokers & Coldplay - Something Just Like This (Lyric).mp3"
+Jul 17 14:27 : player: played "I Found A Girl–The Vamps Lyrics.mp3"
+Jul 17 14:30 : player: played "Clean Bandit - Solo feat. Demi Lovato [Official Video].mp3"
+Jul 17 14:34 : player: played "Maroon 5 - Wait.mp3"
+Mar 24 09:55 : update: added /Phao - 2 Phut Hon (KAIZ Remix) _ TikTok Vietnamese Music 2020-yoZy2E17-50.mp3
+Mar 24 09:55 : update: added /Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3
+Mar 24 09:55 : update: added /24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3
+Mar 24 10:54 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 24 11:36 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 24 11:37 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 24 13:45 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 24 13:46 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 24 13:57 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 24 14:01 : player: played "Phao - 2 Phut Hon (KAIZ Remix) _ TikTok Vietnamese Music 2020-yoZy2E17-50.mp3"
+Mar 24 14:02 : player: played "Phao - 2 Phut Hon (KAIZ Remix) _ TikTok Vietnamese Music 2020-yoZy2E17-50.mp3"
+Mar 24 14:31 : update: removing Phao - 2 Phut Hon (KAIZ Remix) _ TikTok Vietnamese Music 2020-yoZy2E17-50.mp3
+Mar 24 14:31 : update: added /Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3
+Mar 24 14:31 : update: added /Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3
+Mar 24 14:31 : update: added /Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3
+Mar 24 14:33 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 24 14:37 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 24 14:40 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Mar 24 14:44 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Mar 24 14:47 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Mar 24 14:49 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 25 11:46 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 25 11:54 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Mar 25 11:55 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 25 13:04 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 25 13:33 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 26 14:17 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Mar 31 13:33 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Mar 31 13:35 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 01 14:38 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 01 14:38 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 05 06:46 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 05 06:48 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 05 06:53 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 05 06:57 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 05 07:00 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 05 08:27 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 05 08:34 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 05 08:37 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 05 08:40 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 05 16:16 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 08 07:55 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 08 15:01 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 08 15:02 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 08 15:22 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 08 15:31 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 08 15:36 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 10 13:11 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 10 14:42 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 10 15:09 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 12 05:54 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 12 09:35 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 12 14:01 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 12 14:04 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 12 14:06 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 13 06:46 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 13 07:02 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 13 14:16 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 13 14:17 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 13 14:34 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 13 16:16 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 13 16:18 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 15 08:05 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 15 08:09 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 15 08:12 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 15 08:14 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 15 08:18 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 15 08:23 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 15 11:26 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 15 11:27 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 16 07:41 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 16 07:41 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 16 08:31 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 17 14:43 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 18 08:02 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 18 08:12 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 18 12:49 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 18 15:22 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 18 15:22 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 19 06:45 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 19 06:54 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 19 07:21 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 19 07:24 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Apr 19 07:25 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 20 10:56 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 20 11:22 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 20 14:05 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 20 14:09 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 20 14:12 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 20 14:15 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 25 09:55 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Apr 25 09:58 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Apr 25 10:07 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Apr 25 10:11 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 26 07:57 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 27 08:43 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Apr 27 08:50 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 03 10:48 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 03 10:48 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 03 11:05 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 03 11:06 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+May 03 11:10 : update: added /Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3
+May 03 11:13 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+May 04 07:40 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+May 04 07:43 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 04 07:46 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 04 07:49 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+May 04 09:10 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+May 04 09:12 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 04 09:14 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 04 10:23 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+May 04 16:05 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+May 09 09:38 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+May 09 09:41 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 10 08:24 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 11 13:53 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+May 13 10:47 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+May 13 10:47 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+May 16 08:51 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+May 16 08:53 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 16 08:57 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 16 09:00 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+May 16 09:03 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+May 19 09:36 : update: added /Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3
+May 19 09:36 : update: added /Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3
+May 19 09:38 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+May 20 11:04 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+May 20 11:07 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 20 11:09 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 20 11:12 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 20 11:12 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 21 07:01 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+May 21 07:04 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+May 21 07:07 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 21 07:09 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 09:20 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 09:20 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 09:23 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 09:26 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 09:29 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 09:29 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 14:02 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 15:43 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 15:44 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 15:53 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 15:56 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 15:59 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 23 16:02 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+May 23 16:06 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+May 23 16:07 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 24 12:02 : update: added /Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3
+May 24 12:02 : update: added /LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3
+May 24 12:02 : update: added /Nightcore - Stay High-l8Qmlci7aRg.mp3
+May 24 12:02 : update: added /[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3
+May 24 12:02 : update: added /Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3
+May 24 12:07 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 24 12:08 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 24 12:38 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+May 24 12:43 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+May 24 12:50 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 24 12:50 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 25 19:36 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 26 18:41 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+May 27 18:53 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+May 27 19:59 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 29 16:01 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+May 29 16:10 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+May 29 16:12 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+May 30 15:25 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+May 31 17:00 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 03 14:44 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 03 15:00 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Jun 03 15:05 : exception: Bad playlist name
+Jun 03 15:05 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jun 05 20:09 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jun 05 20:13 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Jun 05 20:13 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Jun 05 20:37 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Jun 05 20:40 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Jun 07 20:34 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 07 20:38 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 07 21:22 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 07 21:28 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 07 21:28 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 07 21:49 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 07 21:52 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 07 21:53 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jun 10 16:53 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 10 17:38 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 10 17:52 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 10 20:08 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 10 20:38 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 10 20:38 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 11 17:26 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 11 17:31 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Jun 11 18:19 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 11 23:14 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 12 18:10 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 12 18:47 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 12 19:04 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jun 12 19:05 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jun 13 18:57 : update: added /K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3
+Jun 13 18:58 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jun 14 16:55 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 14 16:56 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 15 21:10 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 15 21:10 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jun 16 22:30 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 16 22:34 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jun 16 22:38 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 16 22:42 : player: played "Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3"
+Jun 16 22:46 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 16 22:46 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 17 01:18 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jun 17 01:23 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Jun 17 01:26 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 17 01:30 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jun 17 01:32 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jun 17 01:36 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Jun 17 01:39 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Jun 17 01:43 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Jun 17 01:44 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Jun 17 20:06 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 17 20:10 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jun 17 20:10 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jun 20 23:20 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 20 23:24 : player: played "Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3"
+Jun 20 23:26 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 27 18:05 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jun 27 18:09 : player: played "Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3"
+Jun 27 18:14 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jun 27 18:16 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jul 02 16:14 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Jul 02 16:19 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Jul 02 16:22 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Jul 02 16:26 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jul 02 16:28 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jul 02 16:32 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Jul 02 16:35 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Jul 02 16:37 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+Jul 02 16:41 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jul 02 16:45 : player: played "Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3"
+Jul 02 16:45 : player: played "Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3"
+Jul 02 17:56 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jul 02 18:01 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Jul 02 18:02 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+Jul 03 18:16 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Jul 03 18:22 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Jul 03 18:24 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jul 03 18:27 : player: played "Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3"
+Jul 03 18:31 : player: played "Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3"
+Jul 03 18:34 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Jul 04 21:27 : update: added /New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3
+Jul 04 21:37 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Jul 12 12:02 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Jul 12 17:27 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Jul 12 18:08 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Jul 12 18:09 : player: played "Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3"
+Jul 12 18:09 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jul 24 23:04 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Jul 25 20:49 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Jul 26 21:46 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 01 10:52 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Aug 03 22:20 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 04 14:59 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 04 14:59 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 04 21:41 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Aug 04 22:08 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Aug 04 22:12 : update: added /🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3
+Aug 04 22:22 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 05 22:01 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 06 14:19 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 06 22:09 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 07 23:20 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Aug 07 23:37 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 08 00:08 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 08 00:16 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 08 14:56 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 08 21:20 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 08 21:49 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 08 22:08 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 09 16:28 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 09 17:40 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 11 17:47 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 12 00:43 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 12 16:17 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Aug 22 22:45 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Aug 24 16:51 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 24 16:53 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 24 17:28 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 24 17:32 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 24 17:32 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Aug 24 17:32 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Sep 01 19:31 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Sep 02 00:01 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Sep 07 20:22 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Sep 07 20:26 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Sep 07 20:34 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Sep 07 20:35 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Sep 08 19:04 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Sep 08 19:12 : player: played "🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3"
+Sep 13 14:34 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Sep 18 18:52 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Sep 18 18:55 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Oct 19 23:17 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Oct 30 20:01 : update: added /Don Diablo - Survive (Lyric Video) ft. Emeli Sandé, Gucci Mane-loB1bMXzvJ4.mp3
+Oct 30 20:01 : update: added /K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3
+Oct 30 20:01 : update: added /Gostan - Klanga (De Hofnar Remix) [Deep House]-VREoSPYVsYs.mp3
+Oct 30 20:01 : update: added /Miles Away - Bring Me Back (Lyrics) ft. Claire Ridgely-VOGjSLlTDts.mp3
+Oct 30 20:01 : update: added /LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3
+Oct 30 20:01 : update: added /🔥Beautiful Music 2021 Mix ♫ Top 30 NCS Gaming Music Mix ♫ Best EDM, Trap, DnB, Dubstep, House-O-Yky07M_dw.mp3
+Oct 30 20:01 : update: added /Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3
+Oct 30 20:01 : update: added /Nightcore - O.D.D. (Lyrics)-9DdoIC7pR84.mp3
+Oct 30 20:01 : update: added /Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3
+Oct 30 20:01 : update: added /Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3
+Oct 30 20:01 : update: added /New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3
+Oct 30 20:01 : update: added /Nightcore - Stay High-l8Qmlci7aRg.mp3
+Oct 30 20:01 : update: added /[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3
+Oct 30 20:01 : update: added /Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3
+Oct 30 20:01 : update: added /24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3
+Oct 30 20:01 : update: added /Galantis - Runaway (U & I) [Premiere]-szj59j0hz_4.mp3
+Nov 23 18:47 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Dec 01 16:25 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Dec 01 16:29 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Dec 01 16:33 : player: played "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)-WTJSt4wP2ME.mp3"
+Dec 01 17:59 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Dec 01 18:07 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Dec 11 23:22 : player: played "Nightcore - Where We Started (Lost Sky ft. Jex) - (Lyrics)-wiaJKb40yOo.mp3"
+Dec 11 23:27 : player: played "Nightcore - Stay High-l8Qmlci7aRg.mp3"
+Dec 11 23:28 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Dec 19 22:45 : player: played "New Music Mix 2021 🎧 Remixes of Popular Songs 🎧 EDM Gaming Music - Bass Boosted - Car Music-A-YlFaYVmBA.mp3"
+Dec 19 22:47 : player: played "Imagine Dragons - Radioactive (Lyrics)-vrgaB9xu7GM.mp3"
+Dec 20 19:45 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Dec 20 19:56 : player: played "LFZ - Echoes [NCS Release]-Q_ojhcx-wrk.mp3"
+Dec 20 20:03 : player: played "Nightcore - Cherry Gum (Lyrics)-nBfcuerhYog.mp3"
+Dec 20 20:06 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"
+Dec 20 20:10 : player: played "24kGoldn - Mood (Lyrics) ft. Iann Dior-nMVFSwfV6wk.mp3"
+Jan 02 20:18 : player: played "Breathing Is All We Know (Sirius Mashup) [Copyright Free]-foWVaau6NmM.mp3"
+Jan 26 20:05 : player: played "[Trap] - Pegboard Nerds x MisterWives - Coffins [Monstercat FREE Release]-gRr9E9cVqHE.mp3"

@@ -1,0 +1,87 @@
+conky.config = {
+alignment = 'top_left',
+background = false,
+border_width = 1,
+cpu_avg_samples = 2,
+default_color = 'white',
+default_outline_color = 'white',
+default_shade_color = 'white',
+draw_borders = false,
+draw_graph_borders = true,
+draw_outline = false,
+draw_shades = false,
+use_xft = true,
+font = 'Input Mono:size=9',
+gap_x = 25,
+gap_y = 50,
+minimum_size = '5 5',
+net_avg_samples = 2,
+double_buffer = true,
+out_to_console = false,
+out_to_stderr = false,
+extra_newline = false,
+own_window = true,
+own_window_class = 'Conky',
+own_window_type = 'override',
+stippled_borders = 0,
+update_interval = 1.0,
+uppercase = false,
+use_spacer = 'none',
+show_graph_scale = false,
+show_graph_range = false,
+own_window_transparent = true, 
+	color1 = 'cyan',
+	color2 = 'eeeeec',
+	color3 = 'green',
+	color4 = 'green',
+	color5 = 'green',
+	color6 = '#eeeeec', -- # graph borders
+	color7 = '#ffffff'
+}
+
+conky.text = [[ 
+${voffset 5}${color5}SYSTEM  ${stippled_hr 3 3}
+${voffset 5}${color1}OS: ${color7}$distribution $sysname $kernel
+#${voffset 5}${color1}OS: ${color7}${execi 10000 lsb_release -d | cut -f 2| tr "[:upper:]" "[:upper:]"} $kernel
+${voffset 0}${color1}Boot time:${color7} ${execi 10000 who -b |awk '{print $3}'}${color1} on ${color7}${execi 10000 who -b |awk '{print $2}'}
+${voffset 0}${color1}Uptime:${color7} $uptime 
+${voffset 5}${color5}CPU  ${stippled_hr 3 3}
+${voffset 5}${color1}CPU0: ${color7}${cpu cpu0}% ${cpubar cpu0}
+${voffset 5}${color1}CPU1: ${color7}${cpu cpu1}% ${cpubar cpu1}
+${voffset 5}${color1}CPU2: ${color7}${cpu cpu2}% ${cpubar cpu2}
+${voffset 5}${color1}CPU3: ${color7}${cpu cpu3}% ${cpubar cpu3}
+Temperatur ${execi 8 sensors | grep 'Core 0' | cut -c16-24 | sed '/^$/d'} 
+${voffset 5}${color5}RAM ${stippled_hr 3 3}
+${voffset 5}${color1}RAM usage: ${color7}$mem${color1}${alignr}Free: ${color7}$memeasyfree
+${color2}${membar}
+${voffset 5}${color5}Disk  ${stippled_hr 3 3}
+${voffset 5}${color1}HOME: ${color7}${fs_used /home}${color1}${alignr}Free: ${color7}${fs_free /home}
+${color2}${fs_bar /home} 
+# network
+${voffset 5}${color5}Wi-Fi  ${stippled_hr 3 3}
+${voffset 5}${color1}SSID: ${color7}${wireless_essid wlp3s0} ${color1}Channel: ${color7}${wireless_channel wlp3s0}
+${color1}IP address: ${color7}${addr wlp3s0}
+${color1}Wireless signal: ${color7}${wireless_link_qual_perc wlp3s0}%
+${color1}Connections: ${color7}${tcp_portmon 1 65535 count}
+${color1}Download speed: ${color7}${downspeed wlp3s0}
+# Processes
+${voffset 5}${color5}Processes  ${stippled_hr 3 3}
+${color1}Name${goto 180}CPU%${alignr}MEM%
+${color7}${top name 1} ${goto 180}${top cpu 1}${alignr}${top mem 1}
+${color7}${top name 2} ${goto 180}${top cpu 2}${alignr}${top mem 2}
+${color7}${top name 3} ${goto 180}${top cpu 3}${alignr}${top mem 3}
+${color7}${top name 4} ${goto 180}${top cpu 4}${alignr}${top mem 4}
+${color7}${top name 5} ${goto 180}${top cpu 5}${alignr}${top mem 5}
+${color7}${top name 6} ${goto 180}${top cpu 5}${alignr}${top mem 6} 
+${color7}${top name 7} ${goto 180}${top cpu 5}${alignr}${top mem 7}
+${voffset 5}${color5}Memory  ${stippled_hr 3 3}
+${color1}Name${goto 180}MEM%${alignr}MEM
+${color7} ${top_mem name 1} ${goto 180}${top mem 1}${alignr}${top mem_res 1}
+${color7}${top_mem name 2} ${goto 180}${top mem 2}${alignr}${top mem_res 2}
+${color7}${top_mem name 3} ${goto 180}${top mem 3}${alignr}${top mem_res 3}
+${color7}${top_mem name 4} ${goto 180}${top mem 4}${alignr}${top mem_res 4}
+${color7}${top_mem name 5} ${goto 180}${top mem 5}${alignr}${top mem_res 5} 
+${color7}${top_mem name 6} ${goto 180}${top mem 5}${alignr}${top mem_res 6} 
+${color7}${top_mem name 7} ${goto 180}${top mem 5}${alignr}${top mem_res 7}
+${voffset -15}
+ ]]

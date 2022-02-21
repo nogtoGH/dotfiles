@@ -1,0 +1,59 @@
+conky.config = {
+alignment = 'top_right',
+background = false,
+border_width = 1,
+cpu_avg_samples = 2,
+default_color = 'white',
+default_outline_color = 'white',
+default_shade_color = 'white',
+draw_borders = false,
+draw_graph_borders = true,
+draw_outline = false,
+draw_shades = false,
+use_xft = true,
+font = 'Input Mono:size=9',
+gap_x = 25,
+gap_y = 70,
+maximum_width = 900,
+net_avg_samples = 2,
+double_buffer = true,
+out_to_console = false,
+out_to_stderr = false,
+extra_newline = false,
+own_window = true,
+own_window_class = 'Conky',
+own_window_type = 'override',
+stippled_borders = 0,
+update_interval = 1.0,
+uppercase = false,
+use_spacer = 'none',
+show_graph_scale = false,
+show_graph_range = false,
+own_window_transparent = true, 
+	color1 = 'cyan',
+	color2 = 'green',
+	color3 = '#ffffff'
+}
+conky.text = [[ 
+${alignr}${color2}HACKER NEWS *${color3}
+${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 0}${color1} (1
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 1}${color1} (2
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 2}${color1} (3
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 3}${color1} (4
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 4}${color1} (5
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 5}${color1} (6
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 6}${color1} (7
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 7}${color1} (8
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 8}${color1} (9
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 9}${color1} (10
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 10}${color1} (11
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 11}${color1} (12 
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 12}${color1} (13
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 13}${color1} (14
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 14}${color1} (15
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 15}${color1} (16
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 16}${color1} (17
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 17}${color1} (18
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 18}${color1} (19
+${color3}${alignr} ${rss https://news.ycombinator.com/rss 30 item_title 19}${color1} (20
+ ]]

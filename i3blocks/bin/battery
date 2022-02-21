@@ -1,0 +1,68 @@
+
+readonly instance=${BLOCK_INSTANCE:-0}
+readonly b_full=" "
+readonly b_three_quarter=" "
+readonly b_half=" "
+readonly b_one_quarter=" "
+readonly b_empty=" "
+readonly charging=" "
+declare -a battery_info_list
+
+declare full_text
+declare short_text
+
+get_battery_stats() {
+  local battery_info
+
+  battery_info=$(acpi -b | grep "Battery ${instance}")
+  IFS=', ' read -r -a battery_info_list <<< "${battery_info}"
+}
+
+choose_bat_symbol() {
+  local percentage="$1"
+  local symbol
+
+  if [ "${percentage%?}" -gt 95 ]; then
+    symbol="${b_full}"
+  elif [ "${percentage%?}" -gt 65 ]; then
+    symbol="${b_three_quarter}"
+  elif [ "${percentage%?}" -gt 40 ]; then
+    symbol="${b_half}"
+  elif [ "${percentage%?}" -gt 15 ]; then
+    symbol="${b_one_quarter}"
+  else
+    symbol="${b_empty}"
+  fi
+
+  echo "${symbol}"
+
+}
+
+set_output() {
+  local battery_symbol
+  battery_symbol=$(choose_bat_symbol "${battery_info_list[3]}")
+
+  case ${#battery_info_list[@]} in
+    4)
+      short_text="${charging}${battery_symbol}"
+      full_text="${short_text}${battery_info_list[3]}"
+      ;;
+    6)
+      short_text="${battery_symbol}"
+      full_text="${short_text}${battery_info_list[3]} ${battery_info_list[4]}"
+      ;;
+    7)
+      short_text="${charging}${battery_symbol}"
+      full_text="${short_text}${battery_info_list[3]}"
+      ;;
+  esac
+}
+
+main() {
+  get_battery_stats
+  set_output
+  printf "%s\\n" "${full_text}"
+  printf "%s\\n" "${short_text}" 
+}
+
+main

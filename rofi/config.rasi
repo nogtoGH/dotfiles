@@ -1,0 +1,9 @@
+
+configuration {
+    lines: 12;
+    show-icons: true;
+    font: "hack 10";
+    display-window: "Window";
+    display-drun: "Search";
+}
+@theme "full.rasi"
